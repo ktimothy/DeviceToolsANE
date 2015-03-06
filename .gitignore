@@ -1,0 +1,5 @@
+projects/android/out
+build/*.swc
+build/config.cfg
+projects/ios/DeviceTools/build
+projects/ios/DeviceTools/DerivedData

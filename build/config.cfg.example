@@ -1,0 +1,6 @@
+android_sdk=/edit/the/path/
+android_version=8
+java_version=1.5
+
+flex_sdk=/edit/the/path/
+ane_name=DeviceTools

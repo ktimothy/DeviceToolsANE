@@ -1,0 +1,14 @@
+<flex-config> 
+    <compiler> 
+        <debug>true</debug>
+        <source-path> 
+            <path-element>../default</path-element> 
+        </source-path> 
+    </compiler> 
+    <include-classes> 
+        <class>com.quaternary.devicetools.DeviceTools</class> 
+    </include-classes> 
+    <swf-version>14</swf-version>
+    <target-player>15.0</target-player>
+    <output>temp/swc/DefaultDeviceTools.swc</output>
+</flex-config>
